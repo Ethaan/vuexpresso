@@ -1,0 +1,12 @@
+{
+  "presets": [
+    ["env", { "modules": false }],
+    "stage-2"
+  ],
+  "plugins": [
+    "transform-runtime",
+    "transform-object-rest-spread",
+    "transform-es2015-modules-commonjs"
+  ],
+  "comments": false,
+}
