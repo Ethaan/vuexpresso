@@ -9,8 +9,13 @@ Mainly inspired by
 
 # Getting Started
 
+**Note** remember to have Mongo proccess running on the background or edit `config/index.js` with a cloud mongodb instance (default to localhost)
+
+Take a look [here](https://docs.mongodb.com/manual/tutorial/manage-mongodb-processes/) to know how to run the mongo server
+
 ```
 git clone https://github.com/Ethaan/vuexpresso.git
+npm install -g babel-cli
 yarn
 yarn run dev
 ```

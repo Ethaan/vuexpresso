@@ -5,8 +5,8 @@
   "author": "ethaan <ethan.rosanoo@gmail.com>",
   "private": true,
   "scripts": {
-    "dev": "babel-node build/dev-server.js",
-    "play": "PORT=5000 VUE_PLAY=1 babel-node build/dev-server.js"
+    "dev": "./node_modules/.bin/babel-node build/dev-server.js",
+    "play": "PORT=5000 VUE_PLAY=1 ./node_modules/.bin/babel-node build/dev-server.js"
   },
   "dependencies": {
     "apollo-client": "^1.0.4",
