@@ -87,4 +87,4 @@ You can easy remove Jade and stylus by simply removing them from the tag like `<
 
 TODO
 
-- [ ] Build for Production
+- [x] Build for Production
