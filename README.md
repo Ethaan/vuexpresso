@@ -17,7 +17,7 @@ Take a look [here](https://docs.mongodb.com/manual/tutorial/manage-mongodb-proce
 git clone https://github.com/Ethaan/vuexpresso.git
 npm install -g babel-cli
 yarn
-yarn run dev
+yarn dev
 ```
 
 # Other Commands
