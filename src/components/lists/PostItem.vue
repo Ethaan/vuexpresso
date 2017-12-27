@@ -7,6 +7,8 @@
 </template>
 
 <script>
+// Emits:
+// 'deletePost', id
 import NormalButton from 'components/core/buttons/NormalButton';
 
 export default {
