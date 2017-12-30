@@ -1,9 +1,9 @@
 <template lang="jade">
-button(
-  v-bind:type="type"
-  @click="onClick"
-)
-  slot
+  button(
+    v-bind:type="type"
+    @click="onClick"
+  )
+    slot
 </template>
 
 <script>

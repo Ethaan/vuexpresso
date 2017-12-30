@@ -22,7 +22,7 @@ yarn dev
 
 # Other Commands
 
-`yarn run play` - Serves a play server using [vue-play](https://github.com/vue-play/vue-play)
+`yarn run storybook` - Serves a play server using [storybook](https://github.com/storybooks/storybook)
 
 # What includes
 
@@ -33,9 +33,9 @@ By default it runs a server on `/graphql`, in order to make the API calls, you c
 ### GraphiQL UI
 **default** to `/graphiql` but you can change it on `data/base-config.js`;
 
-### Vue-Play UI.
+### Storybook UI.
 
-It offers an UI to visualize all the current components of the app, and well.. play with them.
+It uses `Storbook` to render and test components much better in real time, check the [official repo](https://github.com/storybooks/storybook)
 
 ### Vuex Config.
 
@@ -59,7 +59,7 @@ You can easy remove Jade and stylus by simply removing them from the tag like `<
 
 * [VueJS](https://vuejs.org/)
 
-* [Vue-Play](https://github.com/vue-play/vue-play)
+* [Storybook](https://github.com/storybooks/storybook)
 
 * [Vuex](https://github.com/vuejs/vuex)
 
