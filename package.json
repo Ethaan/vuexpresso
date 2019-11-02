@@ -44,7 +44,7 @@
     "http-proxy-middleware": "^0.17.4",
     "isomorphic-fetch": "^2.2.1",
     "jade": "^1.11.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.13",
     "module": "^1.2.5",
     "mongodb": "^2.2.26",
     "node-uuid": "^1.4.8",
