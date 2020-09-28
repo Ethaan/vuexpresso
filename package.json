@@ -59,7 +59,7 @@
     "vue-router": "^2.4.0",
     "vue-style-loader": "^3.0.0",
     "vuex": "^2.3.1",
-    "webpack-bundle-analyzer": "^2.4.0",
+    "webpack-bundle-analyzer": "^3.3.2",
     "webpack-dev-middleware": "^1.10.1",
     "webpack-hot-middleware": "^2.18.0",
     "webpack-merge": "^4.1.0"
