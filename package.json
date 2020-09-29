@@ -39,7 +39,7 @@
     "graphql-server-express": "^0.7.2",
     "graphql-subscriptions": "^0.4.4",
     "graphql-tag": "^2.11.0",
-    "graphql-tools": "^0.11.0",
+    "graphql-tools": "^2.13.0",
     "html-webpack-plugin": "^3.2.0",
     "http-proxy-middleware": "^0.17.4",
     "isomorphic-fetch": "^2.2.1",
