@@ -20,7 +20,7 @@
     "babel-preset-env": "^1.4.0",
     "babel-preset-stage-2": "^6.24.1",
     "babel-register": "^6.24.1",
-    "body-parser": "^1.17.1",
+    "body-parser": "^1.19.0",
     "compression-webpack-plugin": "^0.4.0",
     "connect-history-api-fallback": "^1.6.0",
     "copy-webpack-plugin": "^4.0.1",
