@@ -69,7 +69,7 @@
     "babel-loader": "^6.0.0",
     "babel-preset-latest": "^6.0.0",
     "cross-env": "^3.0.0",
-    "css-loader": "^0.25.0",
+    "css-loader": "^0.28.11",
     "file-loader": "^0.9.0",
     "vue-loader": "^11.1.4",
     "vue-play": "^3.2.1",
